@@ -1,0 +1,32 @@
+<resources>
+
+
+    <string name="cerca">cerca</string>
+
+
+    <!-- ITEMS NAME ENTER HERE -->
+
+    <string name="app_name">Splash</string>
+    <string name="login_button">Find</string>
+    <string name="mechanic">Mechanic</string>
+    <string name="plumber">Plumber</string>
+    <string name="electricians">Electricians</string>
+    <string name="grocery">Grocery</string>
+    <string name="ATM">ATM</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="Rooms">Rooms</string>
+    <string name="hotels">Hotels</string>
+    <string name="carpenter">Carpenter</string>
+    <string name="hospitals">Ambulance</string>
+    <string name="police">Police</string>
+    <string name="Doctors">Doctors</string>
+    <string name="view">View</string>
+    <string name="todo">TODO</string>
+
+    <!--LOCATION ENTER HERE -->
+
+
+    <!-- WORKERS NAME ENTER HERE -->
+
+
+</resources>
